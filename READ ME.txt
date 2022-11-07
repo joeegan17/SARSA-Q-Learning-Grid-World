@@ -1,0 +1,9 @@
+I wrote this code in Python 3.10.6 in VSCode with a Jupyter notebooks layout.
+
+packages are:
+numpy
+matplotlib.pyplot
+seaborn
+
+
+The code is pretty straightforward. Some of the loops that run multiple agents multiple times could take several minutes but otherwise its OK
